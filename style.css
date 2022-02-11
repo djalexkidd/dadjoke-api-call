@@ -44,3 +44,7 @@ button {
     text-align: center;
     margin-top: 20px;
 }
+
+.title {
+    color: rgb(82, 82, 82);
+}

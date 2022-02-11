@@ -21,8 +21,6 @@ function creationBlague(output) {
 }
 
 // Bouton pour générer une autre blague
-button.addEventListener('click', (e) => {
-    anotherJoke()
-})
+button.addEventListener('click', anotherJoke)
 
 anotherJoke()
